@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS blogging_through_technoverse;
+CREATE DATABASE blogging_through_technoverse;

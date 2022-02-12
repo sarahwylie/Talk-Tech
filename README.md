@@ -1,1 +1,1 @@
-# Tech-Notchoaverage-Blog
+# Blogging Through the Technoverse

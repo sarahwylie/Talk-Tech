@@ -1,2 +1,2 @@
-DROP DATABASE IF EXISTS blogging_through_technoverse;
-CREATE DATABASE blogging_through_technoverse;
+DROP DATABASE IF EXISTS talk_tech;
+CREATE DATABASE talk_tech;

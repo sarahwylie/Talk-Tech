@@ -41,6 +41,21 @@ router.get('/', (req, res) => {
 });
 
 router.get('/post/:id', (req, res) => {
+  const post = {
+    id: 2,
+    post_url: 'buzzfeed.com',
+    title: 'It is Tuesday',
+    created_at: new Date(),
+    comments: [{}, {}],
+    user: {
+      username: 'mpergens6'
+    }
+  };
+
+  res.render('single-post', { post });
+});
+
+router.get('/post/:id', (req, res) => {
   Post.findOne({
     where: {
       id: req.params.id

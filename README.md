@@ -11,10 +11,10 @@ Are you about to drop the next big breakthrough in tech? Did you just learn how 
 * [Queries](#any-questions)
 
 ## Usage
-Strap on your nerd vest securely and head over to [Talk Tech](https://talk-tech.herokuapp.com/). Set up your account, then get blogging!
+Strap on your nerd vest securely and head over to [Talk Tech](https://talk-tech-sarahwylie.vercel.app). Set up your account, then get blogging!
 
 ## Installation
-Visit [Talk Tech](https://talk-tech.herokuapp.com/) to get started!
+Visit [Talk Tech](https://talk-tech-sarahwylie.vercel.app) to get started!
 
 
 ## Output:
